@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {padding: 0; margin: 0 auto;}
+a {text-decoration: none; color: #fff;}
+li {list-style: none;}
+
+table {border: 1px solid;}
+td {border: 1px solid;}
+.inputbox {text-align: left;}
+.mno {width: 100px;}
+.no {width: 100px;}
+.mname {width: 150px;}
+.name {width: 150px;}
+.phone {width: 200px;}
+.adress {width: 300px;}
+.join {width: 200px;}
+.class {width: 100px;}
+.grade {width: 100px;}
+.city {width: 100px;}
+.sal {width: 100px;}
+.cent {text-align: center;}
+
+
+#header {background: #2524FF; width: 1400px; height: 130px;}
+.head {width: 1400px; height: 100px; line-height: 100px; text-align: center;}
+.head h1 {display: inline; color: #fff;}
+.head h2 {display: inline; color: #fff;}
+.nav {width: 1400px; height: 30px; background: #BFA0ED;}
+.nav li {float: left; width: 200px; line-height: 30px; text-align: center;}
+
+#content {background: #D5D5D5; width: 1400px; height: 600px;}
+
+.maincont {text-align: center; height: 80px; line-height: 80px;}
+.cont {font-size: 16px;}
+
+#footer {background: #4374D9; width: 1400px; height: 80px; line-height: 80px; font-size: 20px; color: #fff; text-align: center; }
